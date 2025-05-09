@@ -30,4 +30,4 @@ spec:
     spec:
       containers:
       - name: con-front
-        image: 542406542412.dkr.ecr.ap-northeast-2.amazonaws.com/frontend:1
+        image: gskim1230/spring:10
